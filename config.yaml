@@ -1,0 +1,13 @@
+# Example Hermes configuration for the AI Orchestrator Agent.
+# Merge into your own profile; nothing here is mandatory.
+
+model: deepseek-v4-flash
+provider: openrouter
+
+# A local model keeps the whole course free and offline:
+# model: qwen3:8b
+# provider: ollama
+# base_url: http://localhost:11434/v1
+
+skills_dir: skills
+work_dir: ~/ai-orchestrator
