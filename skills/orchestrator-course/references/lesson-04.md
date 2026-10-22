@@ -1,27 +1,28 @@
-# Lesson 4 - Ask like a manager
-*Prompt craft · about 45 minutes · artefact: `prompts/brief-template.md`*
+# Lesson 4 - The words that get work done
+*Language and skills · about 45 minutes · artefact: `language/my-glossary.md`*
 
 ## What you are making
-A reusable brief template, and one rewritten job that proves it works.
+Your own short glossary: twenty terms that matter in your work, each with a sentence you would actually say to an agent, plus the five phrases you catch yourself using that cause trouble.
 
 ## Why it matters
-A vague prompt is a vague employee. The difference between a useless answer and a usable one is almost never the model; it is whether the brief named the task, the material, the limits and the shape of the answer.
+Prompting as a separate craft is fading: the agent now holds procedures and tools, so what is left for you is the language that tells it which procedure and what done looks like. Vague words cost rounds. Naming the thing is the cheapest speed-up there is.
 
 ## The demo
-The coach asks for the same thing twice: "write an email about the delay" and then a five-part brief naming the reader, the news, the facts, the tone, and the required shape. It prints both answers and reads the difference aloud: one is filler, one could be sent.
+The coach takes the request "make my report better" and rewrites it in front of the student: who reads it, how long, what must be in it, what must not, and the test that decides it is finished. It runs both versions and reads the difference. Then it shows the three habits: name the thing, say the outcome rather than the vibe, and give the test. Finally it opens `references/glossary.md` and picks five entries that matter for this student's job.
 
 ## Your turn
-1. Save `prompts/brief-template.md` with the five parts: task, context, constraints, shape, check.
-2. Pick a real job you do weekly. Write the vague version, then the briefed version.
-3. Run both. Keep both outputs side by side in the same file, with one line on what changed.
+1. Read `references/glossary.md`. It is the full vocabulary, 400 plus entries, each ending in a **Say:** line.
+2. Write `language/my-glossary.md` with twenty terms you will actually use, and for each one write your own Say line about your own work. Copying the glossary's line is not the exercise.
+3. Add a section called **Words that cost me** with five phrases you use when you are vague, and the repair for each.
+4. Read your page aloud. Any sentence you would be embarrassed to say to a competent colleague gets rewritten.
 
 ## The check
-1. The template has all five parts with your own words.
-2. The two outputs exist and differ in a way the student can name.
-3. The briefed version is something they would actually send or use, with small edits.
-4. They can say which part of the brief did the most work.
+1. Twenty terms, each with a Say line that names something concrete from the student's own job.
+2. Five trouble phrases with a repair each.
+3. No entry is a copy of the glossary line.
+4. At least three terms come from the agent section: skill, tool call, verification, guardrail, context, autonomy.
 
-Failure signs: a template copied from the coach without personalisation, or outputs that differ only in length.
+Failure signs: a list of definitions with no Say lines, or twenty web terms for someone whose work is not on the web.
 
 ## Sealed when
-`prompts/brief-template.md` holds the template and the two outputs, and the student has named the part that mattered.
+`language/my-glossary.md` passes the four checks and the student has used one Say line for real, with the agent's answer pasted underneath.
