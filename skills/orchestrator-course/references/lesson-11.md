@@ -1,28 +1,26 @@
-# Lesson 11 - Failure drills
-*Guardrails · about 45 minutes · artefact: `guardrails/drills.md`*
+# Lesson 11 - Connected tools and webhooks
+*Connect and automate · about 50 minutes · artefact: `connect/event-log.md`*
 
 ## What you are making
-Three deliberate failures, each caught, each written up: a wrong answer that sounded right, a broken deploy, and a secret in the wrong place.
+One connected service and one real event captured, with the payload saved and explained.
 
 ## Why it matters
-You will not spot a failure you have never seen. These drills are cheap inoculations: cause the failure on purpose, in a place where nothing is at stake, and the same failure becomes visible at work.
+Two ways to learn that something happened: go and ask on a timer (polling), or be told the moment it happens (a webhook). Webhooks are why automation feels instant, and why an agent can react to an email, a form or a payment without you sitting there. Managed connections are how you get in without handling anyone password.
 
 ## The demo
-The coach breaks its own figure three ways: it removes a file the page needs and shows the blank screen; it deploys a page with a typo in the address; it puts a fake key in a file and shows what a scanner would say. For each it names the symptom, the cause and the check that catches it.
+The coach shows a connection to Gmail and to a calendar: what the authorisation screen actually grants, and why it is safer than pasting a password into a script. Then it creates a trigger that fires on an event and points it at a test destination, sends the event, and reads the delivered payload aloud, naming the field that says what happened and the field that says who it was.
 
 ## Your turn
-Run the three drills on your own work and record each in `guardrails/drills.md`:
-1. **The confident wrong answer.** Ask something with a checkable fact, catch it, and record the source that proved it wrong.
-2. **The broken deploy.** Break a link or a file on purpose, see what a visitor would see, fix it.
-3. **The leak.** Put a fake secret in a file, run a search for it, and record what you found and where it should have lived.
+1. Connect one service you actually use: Gmail, Calendar, or an SMS gateway.
+2. Create one trigger, or point a webhook at a capture address you can read, and cause the event: send yourself one email, or create one calendar entry.
+3. Save the delivered payload in `connect/event-log.md`: the event type, the two or three fields that matter, and the fields you can ignore.
+4. Write one sentence: what you would now build if this event arrived every morning.
 
 ## The check
-1. All three drills recorded with symptom, cause and check.
-2. Each failure was actually caused, not imagined.
-3. The fix is written next to it.
-4. Nothing real was harmed: no live client site, no real key.
-
-Failure signs: write-ups of failures the student read about rather than caused.
+1. A real event captured, with its payload, not a screenshot of documentation.
+2. The log names the connection used and the scope granted.
+3. Two fields identified as meaningful, and one explained as noise.
+4. Nothing destructive was wired: no trigger that sends, deletes or pays without a human step.
 
 ## Sealed when
-`guardrails/drills.md` is complete and the student names the failure they are most likely to repeat.
+`connect/event-log.md` holds a real payload and the student can say what pushes, what polls, and why the difference matters.
