@@ -12,7 +12,7 @@ metadata:
 
 # The AI Orchestrator course
 
-Twelve lessons in four modules. Every lesson ends in an artefact that either works or does not.
+Twelve lessons in four modules. Every lesson ends in an artefact that either works or does not. Module 2 is language and skills, not prompt tricks: the vocabulary in `references/glossary.md`, then reading a skill, then writing your own.
 
 ## Running a session
 
@@ -29,9 +29,9 @@ Twelve lessons in four modules. Every lesson ends in an artefact that either wor
 | 1 | Your work, task by task | Position | `position/tasks.md` |
 | 2 | The rules you work under | Position | `position/rules.md` |
 | 3 | Your 90 day plan | Position | `position/pathway.md` |
-| 4 | Ask like a manager | Prompt craft | `prompts/brief-template.md` |
-| 5 | Context is the product | Prompt craft | `prompts/context-pack/` |
-| 6 | Make it critique itself | Prompt craft | `prompts/library.md` |
+| 4 | The words that get work done | Language and skills | `language/my-glossary.md` |
+| 5 | What a skill actually is | Language and skills | `skills/installed.md` |
+| 6 | Teach your agent once | Language and skills | `skills/<your-skill>/SKILL.md` |
 | 7 | Your first mini app | Build | a live URL |
 | 8 | An agent that does a chore | Build | `build/chore/` + one run log |
 | 9 | Your portfolio | Build | a live portfolio URL |
