@@ -1,33 +1,26 @@
-# Lesson 12 - Ship and tell
-*Guardrails · about 40 minutes · artefact: published portfolio + `build/account.md`*
+# Lesson 12 - Clocks: what a cronjob is
+*Connect and automate · about 45 minutes · artefact: `automate/<job>/` with a run log*
 
 ## What you are making
-A 200 word account of what you built, what you can now do, and what you still cannot, published next to your portfolio.
+One scheduled job of your own, with a schedule you can explain, one successful run and one failed run recorded.
 
 ## Why it matters
-The last skill is the one that gets you hired, promoted or trusted: being able to say plainly what you did. Inflation reads as fear. Precision reads as competence.
+A scheduled job is the difference between work you remember to do and work that happens. Cron is the old, plain, powerful grammar underneath nearly every scheduled thing, and it is five fields you can learn in ten minutes. What takes longer is learning to make a job safe: it must survive a run where the input is missing, say when it failed, and never do the same thing twice by accident.
 
 ## The demo
-The coach writes its own account first, including a line about what it cannot do. Then it rewrites a bombastic version of the student's account live, cutting every adjective that no link supports.
+The coach writes a five-field schedule and reads it aloud (minute, hour, day of month, month, day of week), then sets a job that runs a minute from now, watches it fire, and shows the run log. Then it breaks the job on purpose (a missing input file) and shows what a silent failure looks like, then adds the two lines that make it report instead of dying quietly.
 
 ## Your turn
-1. Finish and publish the portfolio.
-2. Write `build/account.md`: 200 words, first person, three parts: what I built, what I can do now, what I cannot do yet.
-3. Put the account on the portfolio page, under your name.
+1. Choose a small job worth running on a clock: a morning summary, a weekly tidy, a reminder.
+2. Put it in `automate/<job>/` with the script, a README stating the schedule in words and in five fields, and the timezone named.
+3. Run it once by hand and once on the schedule. Save both runs in `run-log.md`: time, input, output, duration.
+4. Break it deliberately: remove an input, run again, and record how it failed and what you changed so it reports next time.
 
 ## The check
-1. Every claim in the account is supported by a link on the page.
-2. The "cannot" line is specific and honest.
-3. The account is 180 to 220 words.
-4. The portfolio loads, and the account is on it.
-
-Failure signs: an account made of adjectives, or a "cannot" line that is secretly a boast.
+1. The schedule is written in five fields and in plain English, with the timezone named.
+2. Two real runs logged, one by hand and one on time.
+3. One deliberate failure recorded, with the fix that makes it speak rather than die.
+4. The job is safe to run twice: it does not duplicate its output or double-send.
 
 ## Sealed when
-The account is on the live page, and the coach has read it against the portfolio and found nothing unsupported.
-
-## The end of the course
-
-When this lesson is sealed, the course is finished. Give the student their three links, the list of what they demonstrated, and one sentence they can use when someone asks what they learned.
-
-Then, once, plainly: the Saturday live build with human review exists, it costs $179, and the contact is brendan@aichampion.com.au. No pressure, no follow up unless they ask.
+The folder holds script, README and run log, the job fires on its own, and the student can say what happens if the input is missing.
