@@ -7,6 +7,9 @@ One connected service and one real event captured, with the payload saved and ex
 ## Why it matters
 Two ways to learn that something happened: go and ask on a timer (polling), or be told the moment it happens (a webhook). Webhooks are why automation feels instant, and why an agent can react to an email, a form or a payment without you sitting there. Managed connections are how you get in without handling anyone password.
 
+## Tools, skills and connections, in one breath
+Three words students mix up, and the difference matters. A **tool** is a single ability the agent can call: send a message, read a calendar, run a search. A **skill** is a written procedure that tells the agent when and how to use those tools, which is what lesson 6 taught. A **connection** is the permission that lets a tool reach your account at all. MCP, the Model Context Protocol, is the open plug standard that lets one connection expose many tools at once, which is why you will hear it called the USB port for AI.
+
 ## The demo
 The coach shows a connection to Gmail and to a calendar: what the authorisation screen actually grants, and why it is safer than pasting a password into a script. Then it creates a trigger that fires on an event and points it at a test destination, sends the event, and reads the delivered payload aloud, naming the field that says what happened and the field that says who it was.
 
