@@ -1,30 +1,28 @@
-# Lesson 5 - Context is the product
-*Prompt craft · about 40 minutes · artefact: `prompts/context-pack/`*
+# Lesson 5 - What a skill actually is
+*Language and skills · about 40 minutes · artefact: `skills/installed.md`*
 
 ## What you are making
-A small pack of real material three AI jobs can be grounded in: your own writing, a worked example, and the rules you work under.
+One skill installed on your machine, and proof of when it fires and when it does not.
 
 ## Why it matters
-An AI with no context writes like everyone and no one. The same model given three examples of your actual work stops inventing your voice. This is the difference between a toy answer and something you can put your name on.
+A prompt is spent once. A skill is a procedure saved so the agent loads it whenever a matching task appears, without you remembering anything. The description is the routing signal: the first line decides whether the agent finds the skill at all. Learning to read and test that line is the new literacy.
 
 ## The demo
-The coach writes two versions of a short paragraph: one from memory, one after being given three real examples in a pack. It shows what changed: sentence length, the words it stopped using, the specifics it got right.
+The coach opens one of its own skills and reads the parts aloud: the frontmatter with a name and a description whose first words are the trigger, the body that says when to use it, the procedure, the pitfalls, and the check at the end. Then it runs two requests in a fresh session, one that should fire the skill and one that should not, and shows the difference in behaviour.
 
 ## Your turn
-Create `prompts/context-pack/` with:
-1. `voice.md`: three paragraphs you wrote yourself, unedited.
-2. `example.md`: one piece of work you consider good, with a note on why.
-3. `rules.md`: your rules card from lesson 2, with anything private removed.
-
-Then run one task twice, with and without the pack, and write the comparison into `prompts/context-pack/notes.md`.
+1. Choose one skill from a trusted source: the official Hermes hub, a repo you trust, or this course.
+2. Install it and confirm it appears in your skill list.
+3. Write `skills/installed.md` with: the skill name, the source URL, what its description promises, and a trigger test of two requests, one that should fire it and one that should not.
+4. Paste what actually happened for each request. If it did not fire when it should, say so and try a reworded request; the description is the thing under test, not you.
 
 ## The check
-1. All three files exist and are about the student's own work.
-2. The note names at least two specific differences.
-3. No client names, personal data or credentials in the pack.
-4. The student can say when the pack helps and when it does not.
+1. The skill is installed and listed.
+2. Both test requests were run and their outcomes pasted.
+3. The student can say which words in the description did the routing.
+4. Anything requiring a key names where the key lives, and no secret is pasted into the file.
 
-Failure signs: a pack of generic advice rather than primary material.
+Failure signs: a skill installed but never triggered, or a test that was described rather than run.
 
 ## Sealed when
-The pack and the comparison note exist, and the student has chosen one job they will always give the pack to.
+`skills/installed.md` holds the source, the two runs and the routing sentence, and the student has formed one opinion about the description.
