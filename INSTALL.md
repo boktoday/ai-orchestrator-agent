@@ -33,4 +33,4 @@ The coach reads your progress file and runs lesson 1. Every later session starts
 
 ## What you need
 
-A laptop, a browser, and about 30 to 50 minutes per lesson. Three lessons make a module. Twelve lessons is four sittings if you are quick, nine or ten if you work properly.
+A laptop, a browser, and about 30 to 50 minutes per lesson. Three lessons make a module. Fifteen lessons is five sittings if you are quick, nine or ten if you work properly.
