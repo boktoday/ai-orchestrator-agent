@@ -4,6 +4,14 @@ A free Hermes agent profile that teaches one person at a time to orchestrate AI,
 
 Twelve lessons, four modules, and an artefact at the end of every lesson. The agent demonstrates first, hands over, then checks your work against what it actually does, not what it sounds like. You finish with a live portfolio you made yourself.
 
+## What Hermes is
+
+Hermes is an open agent harness from Nous Research. The model thinks; the harness gives it hands: a terminal, a file system, a browser, scheduled jobs and memory that survives between sessions. Everything runs on your own machine, so your work stays on your disk and your model key pays for your own usage.
+
+Install guide and documentation: https://hermes-agent.nousresearch.com/docs
+
+The agent in this repository is a Hermes profile: a SOUL, a skill and twelve lessons. Nothing here needs a server, a database or an account beyond your model key.
+
 ## What it is not
 
 It is not a video course, a certificate, or a promise about your job. It teaches task-level literacy: what in your work an AI can carry, what it can draft while you check, and what stays human.
