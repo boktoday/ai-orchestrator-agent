@@ -17,3 +17,11 @@ Prompt engineering as a separate craft is fading. The agent now carries procedur
 So the module runs in this order: the glossary first, because the vocabulary is what routing depends on; then reading and testing a skill, because the description is the routing signal and students need to see it fail; then writing a skill for a task they actually repeat, tested in a fresh session, with the failure recorded.
 
 The old prompt-craft material is not wasted, it is absorbed: a skill contains the brief, the context, the constraints and the check, written once and loaded automatically. That is the lesson worth teaching.
+
+## Why there is a module on connections and clocks
+
+The first draft taught building and stopped there, which left a gap a student would hit in week two: how a program reaches your email, your calendar or an SMS gateway at all, and how work happens without anyone pressing go.
+
+So module four sits between building and guardrails. It teaches the request and the response with real calls, then the difference between asking on a timer and being told when something happens, through a managed connection rather than a password in a script. Then the clock itself: five fields, a timezone, idempotency, and a job that reports its own failure instead of dying quietly.
+
+None of it needs a server. The student ends with a log of calls they made, a payload they captured and a job that runs on its own.
