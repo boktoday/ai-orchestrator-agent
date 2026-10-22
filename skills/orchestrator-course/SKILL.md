@@ -12,7 +12,7 @@ metadata:
 
 # The AI Orchestrator course
 
-Twelve lessons in four modules. Every lesson ends in an artefact that either works or does not. Module 2 is language and skills, not prompt tricks: the vocabulary in `references/glossary.md`, then reading a skill, then writing your own.
+Fifteen lessons in five modules. Every lesson ends in an artefact that either works or does not. Module 2 is language and skills, not prompt tricks: the vocabulary in `references/glossary.md`, then reading a skill, then writing your own.
 
 ## Running a session
 
@@ -35,9 +35,12 @@ Twelve lessons in four modules. Every lesson ends in an artefact that either wor
 | 7 | Your first mini app | Build | a live URL |
 | 8 | An agent that does a chore | Build | `build/chore/` + one run log |
 | 9 | Your portfolio | Build | a live portfolio URL |
-| 10 | Verify before you trust | Guardrails | `guardrails/verification.md` |
-| 11 | Failure drills | Guardrails | `guardrails/drills.md` |
-| 12 | Ship and tell | Guardrails | published portfolio + `build/account.md` |
+| 10 | What an API is, and what it is not | Connect and automate | `connect/api-log.md` |
+| 11 | Connected tools and webhooks | Connect and automate | `connect/event-log.md` |
+| 12 | Clocks: what a cronjob is | Connect and automate | `automate/<job>/` + run log |
+| 13 | Verify before you trust | Guardrails | `guardrails/verification.md` |
+| 14 | Failure drills | Guardrails | `guardrails/drills.md` |
+| 15 | Ship and tell | Guardrails | published portfolio + `build/account.md` |
 
 ## Hard rules
 
