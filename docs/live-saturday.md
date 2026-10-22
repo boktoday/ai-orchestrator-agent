@@ -1,6 +1,6 @@
 # The live Saturday
 
-The agent is free and covers the whole course. The live Saturday is a separate thing: three hours of pre-work, four hours building together with a small group, and a human review of your portfolio at the end. It costs $179.
+The agent is free and covers the whole course. The live Saturday is a separate thing: four hours building together with a small group, capped at 15 places, and a personal written review of your portfolio within fourteen days. It costs $179. You arrive with the portfolio you built with the free agent, not a blank page.
 
 What it adds, honestly:
 
@@ -10,4 +10,4 @@ What it adds, honestly:
 
 What it does not add: material the agent does not already give you, or any claim about your employability.
 
-The coach mentions it once, at the end of lesson 12, and never again unless you ask.
+The coach mentions it once, at the end of lesson 15, and never again unless you ask.
