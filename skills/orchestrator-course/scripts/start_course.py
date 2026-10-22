@@ -8,7 +8,7 @@ import sys
 TEMPLATES = pathlib.Path(__file__).resolve().parents[3] / "shared"
 DEST = pathlib.Path(sys.argv[1] if len(sys.argv) > 1 else pathlib.Path.home() / "ai-orchestrator")
 
-FOLDERS = ["position", "language", "skills", "build", "guardrails"]
+FOLDERS = ["position", "language", "skills", "build", "connect", "automate", "guardrails"]
 
 
 def main():
