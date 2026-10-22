@@ -10,7 +10,7 @@ Hermes is an open agent harness from Nous Research. The model thinks; the harnes
 
 Install guide and documentation: https://hermes-agent.nousresearch.com/docs
 
-The agent in this repository is a Hermes profile: a SOUL, a skill and twelve lessons. Nothing here needs a server, a database or an account beyond your model key.
+The agent in this repository is a Hermes profile: a SOUL, a skill and fifteen lessons. Nothing here needs a server, a database or an account beyond your model key.
 
 ## What it is not
 
