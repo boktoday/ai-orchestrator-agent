@@ -2,7 +2,7 @@
 
 A free Hermes agent profile that teaches one person at a time to orchestrate AI, by building real things with them.
 
-Twelve lessons, four modules, and an artefact at the end of every lesson. The agent demonstrates first, hands over, then checks your work against what it actually does, not what it sounds like. You finish with a live portfolio you made yourself.
+Fifteen lessons, five modules, and an artefact at the end of every lesson. The agent demonstrates first, hands over, then checks your work against what it actually does, not what it sounds like. You finish with a live portfolio you made yourself.
 
 ## What Hermes is
 
@@ -16,12 +16,13 @@ The agent in this repository is a Hermes profile: a SOUL, a skill and twelve les
 
 It is not a video course, a certificate, or a promise about your job. It teaches task-level literacy: what in your work an AI can carry, what it can draft while you check, and what stays human.
 
-## The four modules
+## The five modules
 
 1. **Position.** Your work, task by task. The rules you work under. A 90 day plan.
 2. **Language and skills.** The words that get work done, from the 400-term agent glossary. What a skill is and when it fires. Write your own skill for a task you repeat.
 3. **Build.** A mini app. An agent that does a chore. A portfolio.
-4. **Guardrails.** Verify before you trust. Failure drills. Ship and tell.
+4. **Connect and automate.** What an API is. Webhooks and connected tools. What a cronjob is.
+5. **Guardrails.** Verify before you trust. Failure drills. Ship and tell.
 
 ## Who it is for
 
