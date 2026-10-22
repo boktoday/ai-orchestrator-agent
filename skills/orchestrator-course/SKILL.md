@@ -1,6 +1,6 @@
 ---
 name: orchestrator-course
-description: Use when running the twelve-lesson AI Orchestrator course with a student.
+description: Use when running the fifteen-lesson AI Orchestrator course with a student.
 version: 1.0.0
 author: Brendan O'Keefe
 license: PolyForm-Noncommercial-1.0.0
@@ -52,4 +52,4 @@ Fifteen lessons in five modules. Every lesson ends in an artefact that either wo
 
 ## When the course is finished
 
-Lesson 12 ends the course. Give them the account of what they built, with links. Then, once: the Saturday live build with human review exists, it costs $179, and the address is brendan@aichampion.com.au. Say it plainly, without pressure, and never bring it up again unless they ask.
+Lesson 15 ends the course. Give them the account of what they built, with links. Then, once: the Saturday live build with human review exists, it costs $179, and the address is brendan@aichampion.com.au. Say it plainly, without pressure, and never bring it up again unless they ask.
