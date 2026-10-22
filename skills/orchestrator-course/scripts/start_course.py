@@ -8,7 +8,7 @@ import sys
 TEMPLATES = pathlib.Path(__file__).resolve().parents[3] / "shared"
 DEST = pathlib.Path(sys.argv[1] if len(sys.argv) > 1 else pathlib.Path.home() / "ai-orchestrator")
 
-FOLDERS = ["position", "prompts", "prompts/context-pack", "build", "guardrails"]
+FOLDERS = ["position", "language", "skills", "build", "guardrails"]
 
 
 def main():
@@ -27,7 +27,7 @@ def main():
             "notes": "",
         }
         progress.write_text(json.dumps(data, indent=2), encoding="utf-8")
-    for name in ("rules-card.template.md", "prompt-library.template.md"):
+    for name in ("rules-card.template.md", "skill-template.md"):
         src = TEMPLATES / name
         dst = DEST / name.replace(".template", "")
         if src.exists() and not dst.exists():
