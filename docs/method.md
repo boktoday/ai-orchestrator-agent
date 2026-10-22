@@ -9,3 +9,11 @@ Three decisions run through every lesson.
 **Task level, never job level.** Claims that an occupation is safe or doomed are unfalsifiable and unkind. What can be taught and checked is the task: this draft, this calculation, this summary, this page. Students leave able to say which of their tasks are machine-carried, which are machine-drafted, and which are theirs alone.
 
 The three failure modes the course is built to prevent: a portfolio of screenshots with nothing running, confident output nobody checked, and a student who cannot work without the agent in the room.
+
+## Why module 2 is about skills, not prompt tricks
+
+Prompt engineering as a separate craft is fading. The agent now carries procedures, tools and memory, so the scarce skill is not phrasing a clever instruction; it is naming the task in the agent's own vocabulary, knowing which saved procedure will fire, and writing a new one when none will.
+
+So the module runs in this order: the glossary first, because the vocabulary is what routing depends on; then reading and testing a skill, because the description is the routing signal and students need to see it fail; then writing a skill for a task they actually repeat, tested in a fresh session, with the failure recorded.
+
+The old prompt-craft material is not wasted, it is absorbed: a skill contains the brief, the context, the constraints and the check, written once and loaded automatically. That is the lesson worth teaching.
