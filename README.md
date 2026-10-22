@@ -11,7 +11,7 @@ It is not a video course, a certificate, or a promise about your job. It teaches
 ## The four modules
 
 1. **Position.** Your work, task by task. The rules you work under. A 90 day plan.
-2. **Prompt craft.** Ask like a manager. Context is the product. Make it critique itself.
+2. **Language and skills.** The words that get work done, from the 400-term agent glossary. What a skill is and when it fires. Write your own skill for a task you repeat.
 3. **Build.** A mini app. An agent that does a chore. A portfolio.
 4. **Guardrails.** Verify before you trust. Failure drills. Ship and tell.
 
