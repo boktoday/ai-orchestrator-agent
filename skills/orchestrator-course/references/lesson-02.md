@@ -1,6 +1,13 @@
 # Lesson 2 - The rules you work under
 *Position · about 35 minutes · artefact: `position/rules.md`*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. How many rows did your task map hold, and which one were you least sure about?
+2. Name one machine-carried row and the input it needs to do its work.
+3. Which human-only reason would a sceptical manager challenge first?
+
 ## What you are making
 A one page rules card you keep next to your keyboard: what never goes into a prompt, what your employer allows, who owns what you make, and how you verify.
 
