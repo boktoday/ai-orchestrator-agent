@@ -1,6 +1,13 @@
 # Lesson 10 - What an API is, and what it is not
 *Connect and automate · about 50 minutes · artefact: `connect/api-log.md`*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. Which card on your portfolio was hardest to write without adjectives?
+2. Which link did you have to fix, and how did you find it?
+3. What date is on the oldest card, and is it honest?
+
 ## What you are making
 A log of two real API calls you made yourself, request and response, and a plain-English note on what each one proved.
 
