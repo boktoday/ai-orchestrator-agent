@@ -1,6 +1,13 @@
 # Lesson 12 - Clocks: what a cronjob is
 *Connect and automate · about 45 minutes · artefact: `automate/<job>/` with a run log*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. What event fired, and what was actually in the body?
+2. Which field did you decide was noise, and why?
+3. What could that trigger have destroyed if it had fired twice?
+
 ## What you are making
 One scheduled job of your own, with a schedule you can explain, one successful run and one failed run recorded.
 
