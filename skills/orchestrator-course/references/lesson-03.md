@@ -1,6 +1,13 @@
 # Lesson 3 - Your 90 day plan
 *Position · about 30 minutes · artefact: `position/pathway.md`*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. Which of the four headings on your rules card was hardest to fill in honestly?
+2. What did your redaction pass change, and what did it almost miss?
+3. Where does your employer line come from: policy, a person, or your own reading?
+
 ## What you are making
 Three dated commitments: one skill to build, one artefact to finish, one person to show it to.
 
