@@ -1,6 +1,13 @@
 # Lesson 4 - The words that get work done
 *Language and skills · about 45 minutes · artefact: `language/my-glossary.md`*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. What are your three commitments, with their dates?
+2. What did you write on the stop-doing line?
+3. Which commitment is most at risk in the next seven days, and why?
+
 ## What you are making
 Your own short glossary: twenty terms that matter in your work, each with a sentence you would actually say to an agent, plus the five phrases you catch yourself using that cause trouble.
 
