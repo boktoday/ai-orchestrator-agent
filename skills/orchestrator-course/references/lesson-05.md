@@ -1,6 +1,13 @@
 # Lesson 5 - What a skill actually is
 *Language and skills · about 40 minutes · artefact: `skills/installed.md`*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. In one line, what is the difference between a prompt and the context around it?
+2. Which three terms from your glossary do you still use loosely?
+3. What does context mean in your own job, in your own words?
+
 ## What you are making
 One skill installed on your machine, and proof of when it fires and when it does not.
 
