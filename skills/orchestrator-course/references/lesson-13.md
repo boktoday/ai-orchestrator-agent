@@ -1,6 +1,13 @@
 # Lesson 13 - Verify before you trust
 *Guardrails · about 40 minutes · artefact: `guardrails/verification.md`*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. Write your schedule in five fields, then in plain English with the timezone.
+2. Which run was on time, and which did you start by hand?
+3. What makes the job safe to run twice?
+
 ## What you are making
 A verification log for your own portfolio: every claim, how it was checked, and what the check found.
 
