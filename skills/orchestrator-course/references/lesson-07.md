@@ -1,6 +1,13 @@
 # Lesson 7 - Your first mini app
 *Build · about 60 minutes · artefact: a live URL*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. What is your skill description, trigger first?
+2. What failure did the test find, and what did you change?
+3. Which step did you have to rewrite as an imperative?
+
 ## What you are making
 One page that does one useful thing for a real person, published at a public address.
 
