@@ -1,6 +1,13 @@
 # Lesson 1 - Your work, task by task
 *Position · about 40 minutes · artefact: `position/tasks.md`*
 
+## Before you start
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. Name the last task you did today that took more than ten minutes.
+2. Which part of it was reading or typing, and which part was deciding?
+3. Who checks your work now, and how do they know it is right?
+
 ## What you are making
 A list of eight to twelve things you actually do in a working week, each labelled by what an AI can carry.
 
