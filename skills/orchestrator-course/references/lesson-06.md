@@ -1,6 +1,13 @@
 # Lesson 6 - Teach your agent once
 *Language and skills · about 60 minutes · artefact: `skills/<your-skill>/SKILL.md` plus a test log*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. Which two requests triggered the skill you installed?
+2. Which words in the description did the routing?
+3. Where does the key live, and where must it never appear?
+
 ## What you are making
 Your own skill for a task you repeat weekly, tested in a fresh session, and kept somewhere you can install it again.
 
