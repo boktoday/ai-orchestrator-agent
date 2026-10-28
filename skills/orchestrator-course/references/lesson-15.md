@@ -1,6 +1,13 @@
 # Lesson 15 - Ship and tell
 *Guardrails · about 40 minutes · artefact: published portfolio + `build/account.md`*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. Name the three drills and the symptom of each.
+2. Which fix did you re-test, and did it hold?
+3. What would you deliberately break next?
+
 ## What you are making
 A 200 word account of what you built, what you can now do, and what you still cannot, published next to your portfolio.
 
