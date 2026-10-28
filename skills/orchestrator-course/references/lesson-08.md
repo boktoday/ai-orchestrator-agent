@@ -1,6 +1,13 @@
 # Lesson 8 - An agent that does a chore
 *Build · about 60 minutes · artefact: `build/chore/` with one run log*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. What does your mini app do, in one line a stranger would understand?
+2. What broke at phone width, and what did you change?
+3. Has anybody other than you used it, and what did they do with it?
+
 ## What you are making
 A small repeatable workflow that does a real chore for you, with one guardrail, and a log of a real run.
 
