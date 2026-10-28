@@ -1,6 +1,13 @@
 # Lesson 14 - Failure drills
 *Guardrails · about 45 minutes · artefact: `guardrails/drills.md`*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. Which claim on the portfolio had no row in your verification log?
+2. Which check could a stranger run without asking you anything?
+3. What failure did you record, and what did it change?
+
 ## What you are making
 Three deliberate failures, each caught, each written up: a wrong answer that sounded right, a broken deploy, and a secret in the wrong place.
 
