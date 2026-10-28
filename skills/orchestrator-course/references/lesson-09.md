@@ -1,6 +1,13 @@
 # Lesson 9 - Your portfolio
 *Build · about 45 minutes · artefact: a live portfolio URL*
 
+## Recall
+Answer in a line each, out loud or here, before the new material. Retrieval first, teaching second.
+
+1. What single command runs your chore from a clean terminal?
+2. Where is the human step, and what does it block?
+3. What did the log record that you would have missed by hand?
+
 ## What you are making
 One page that shows three pieces of your work, each with a link, a date and a line on what you did.
 
